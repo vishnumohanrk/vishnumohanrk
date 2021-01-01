@@ -30,20 +30,3 @@ export const vishnuMohan = {
     <img src="https://img.shields.io/badge/codewars-36393f.svg?&style=for-the-badge" alt="codewars" />
   </a>
 </p>
-
-### Featured Repositories
-
-<p>
-  <a href="https://github.com/vishnumohanrk/hotstar-clone">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumohanrk&repo=hotstar-clone&theme=slateorange"
-      alt="featured-repo-1"
-    />
-  </a>
-  <a href="https://github.com/vishnumohanrk/quiz-app">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumohanrk&repo=quiz-app&theme=slateorange"
-      alt="featured-repo-2"
-    />
-  </a>
-</p>
