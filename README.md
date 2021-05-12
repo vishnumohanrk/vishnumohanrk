@@ -1,5 +1,13 @@
 ### About
 
+<a href="/#">
+  <img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnumohanrk&layout=compact&theme=slateorange"
+    alt="top-langs"
+  />
+</a>
+
 ```js
 export const vishnuMohan = {
   about: '3rd Year ECE Student at KITS, Coimbatore',
@@ -23,7 +31,7 @@ export const vishnuMohan = {
     <img src="https://img.shields.io/badge/twitter-36393f.svg?&style=for-the-badge" alt="twitter" />
   </a>
   <a href="https://github.com/vishnumohanrk?tab=repositories">
-    <img src="https://img.shields.io/badge/repositories-36393f.svg?&style=for-the-badge" alt="twitter" />
+    <img src="https://img.shields.io/badge/repositories-36393f.svg?&style=for-the-badge" alt="repositories" />
   </a>
   <a href="https://www.codewars.com/users/vishnumohanrk">
     <img src="https://img.shields.io/badge/codewars-36393f.svg?&style=for-the-badge" alt="codewars" />
