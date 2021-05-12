@@ -1,13 +1,5 @@
 ### About
 
-<a href="/#">
-  <img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnumohanrk&layout=compact&theme=slateorange"
-    alt="top-langs"
-  />
-</a>
-
 ```js
 export const vishnuMohan = {
   about: '3rd Year ECE Student at KITS, Coimbatore',
