@@ -2,7 +2,7 @@
 
 ```js
 export const vishnuMohan = {
-  about: '3rd Year ECE Student at KITS, Coimbatore',
+  about: 'Final Year ECE Student at KITS, Coimbatore',
   interests: ['FrontEnd Web Development', 'IOT'],
   skills: ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Python'],
   stack: ['ReactJS', 'NextJS', 'TailwindCSS', 'Vercel'],
@@ -18,12 +18,6 @@ export const vishnuMohan = {
   </a>
   <a href="https://www.linkedin.com/in/vishnumohanrk/">
     <img src="https://img.shields.io/badge/LinkedIn-36393f.svg?&style=for-the-badge" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/vishnumohanrk">
-    <img src="https://img.shields.io/badge/twitter-36393f.svg?&style=for-the-badge" alt="twitter" />
-  </a>
-  <a href="https://github.com/vishnumohanrk?tab=repositories">
-    <img src="https://img.shields.io/badge/repositories-36393f.svg?&style=for-the-badge" alt="repositories" />
   </a>
   <a href="https://www.codewars.com/users/vishnumohanrk">
     <img src="https://img.shields.io/badge/codewars-36393f.svg?&style=for-the-badge" alt="codewars" />
