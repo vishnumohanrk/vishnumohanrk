@@ -1,4 +1,4 @@
-Frontend-focused Product Engineer with expertise in building AI-powered applications and replacing legacy systems. Track record of delivering modern web solutions that combine technical excellence with measurable business impact.
+Frontend-focused Product Engineer.
 
 <p>
   <a href="https://www.linkedin.com/in/vishnumohanrk/">
